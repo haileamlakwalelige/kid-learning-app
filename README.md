@@ -1,6 +1,5 @@
 # kid-learning-app-final
 
-
 ## Description
 
 This project is built using <b>Expo</b> and <strong>React Native </strong>. It includes dependencies and devDependencies required for the project.
