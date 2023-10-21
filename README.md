@@ -36,6 +36,4 @@ This project is built using Expo and React Native. It includes dependencies and 
 
 - @babel/core: ^7.20.0
 
-## License
-
-This project is private and not open-source.
+enjoy the show
