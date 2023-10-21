@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is built using Expo and React Native. It includes dependencies and devDependencies required for the project.
+This project is built using <b>Expo</b> and <strong>React Native </strong>. It includes dependencies and devDependencies required for the project.
 
 ## Installation
 
