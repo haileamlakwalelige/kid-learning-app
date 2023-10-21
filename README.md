@@ -36,4 +36,5 @@ This project is built using Expo and React Native. It includes dependencies and 
 
 - @babel/core: ^7.20.0
 
-enjoy the show
+## License
+- This is a public repository so clone it and enjoy it
