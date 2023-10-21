@@ -1,5 +1,11 @@
 # kid-learning-app-final
 
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://ibb.co/GvNtxMC">
+    <img src="https://i.ibb.co/GvNtxMC/kids.jpg" alt="kids" style="width: 150%; height: auto;">
+  </a>
+</div>
 ## Description
 
 This project is built using <b>Expo</b> and <strong>React Native </strong>. It includes dependencies and devDependencies required for the project.
